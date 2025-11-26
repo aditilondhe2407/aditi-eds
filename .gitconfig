@@ -9,6 +9,4 @@
 	provider = generic
 [https]
 	postBuffer = 2097152000
-[user]
-	email = aditi.udayakumar@gds.ey.com
-	name = aditilondhe2407
+
